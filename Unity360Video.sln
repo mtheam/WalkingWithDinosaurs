@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity360Video", "Unity360Video.csproj", "{956001BE-3449-FE2C-D39D-FC6AB10190E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity360Video.Editor", "Unity360Video.Editor.csproj", "{2E4F0D59-3D2F-DCF5-E204-4C92747105FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{956001BE-3449-FE2C-D39D-FC6AB10190E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{956001BE-3449-FE2C-D39D-FC6AB10190E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{956001BE-3449-FE2C-D39D-FC6AB10190E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{956001BE-3449-FE2C-D39D-FC6AB10190E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E4F0D59-3D2F-DCF5-E204-4C92747105FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E4F0D59-3D2F-DCF5-E204-4C92747105FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E4F0D59-3D2F-DCF5-E204-4C92747105FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E4F0D59-3D2F-DCF5-E204-4C92747105FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
